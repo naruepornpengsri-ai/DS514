@@ -1,6 +1,3 @@
-<img width="1502" height="46" alt="image" src="https://github.com/user-attachments/assets/6c56e114-7e96-4a3c-be9f-908ed7c5f398" /># DS514
-Heart Failure Prediction
-
 # Heart Failure Prediction
 โครงการวิเคราะห์ข้อมูลและการสร้างโมเดล Machine Learning
 
