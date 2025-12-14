@@ -46,7 +46,8 @@ Resource Optimization: ช่วยลดภาระงานของแพท
 
 ## 4. แหล่งที่มาของข้อมูล (Data Source)
 
-- **Dataset:** Heart Failure Prediction Dataset  
+- **Dataset:** Heart Failure Prediction Dataset
+  https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 - **Source:** Kaggle  
 - ข้อมูลถูกจัดเตรียมสำหรับงาน Classification  
 
